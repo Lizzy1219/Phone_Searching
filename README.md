@@ -15,7 +15,7 @@
 ## 安裝方式
 1. 下載專案到本地
     ```bash
-    git clone https://github.com/你的帳號/Phone_Searching.git`
+    git clone https://github.com/Lizzy1219/Phone_Searching.git`
     cd Phone_Searching
     ```
 2. 手動安裝套件
